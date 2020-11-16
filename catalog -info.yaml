@@ -1,0 +1,17 @@
+{
+  "apiVersion": "backstage.io/v1alpha1",
+  "kind": "Component",
+  "metadata": {
+    "description": "The POC Data Mesh solution delivered as part of PI8 from the Data Platform",
+    "etag": "ZjU2MWRkZWUtMmMxZS00YTZiLWFmMWMtOTE1NGNiZDdlYzNk",
+    "generation": 1,
+    "tags": ["lambda", "python"],
+    "name": "trial-master-files-data-mesh",
+    "uid": "2152f463-549d-4d8d-a94d-ce2b7676c6e2"
+  },
+  "spec": {
+    "lifecycle": "experimental",
+    "owner": "stuart.charles@astrazeneca.com",
+    "type": "service"
+  }
+}
