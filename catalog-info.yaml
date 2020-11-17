@@ -3,7 +3,6 @@
   "kind": "Component",
   "metadata": {
     "description": "The POC Data Mesh solution delivered as part of PI8 from the Data Platform",
-    "etag": "ZjU2MWRkZWUtMmMxZS00YTZiLWFmMWMtOTE1NGNiZDdlYzNk",
     "generation": 1,
     "tags": ["lambda", "python"],
     "name": "trial-master-files-data-mesh"
