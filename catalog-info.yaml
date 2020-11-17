@@ -3,7 +3,9 @@
   "kind": "Component",
   "metadata": {
     "description": "The POC Data Mesh Solution",
-    "name": "trial-master-files"
+    "name": "trial-master-files",
+      annotations:
+    backstage.io/techdocs-ref: dir:./
   },
   "spec": {
     "lifecycle": "experimental",
