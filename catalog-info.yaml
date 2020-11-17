@@ -6,8 +6,7 @@
     "etag": "ZjU2MWRkZWUtMmMxZS00YTZiLWFmMWMtOTE1NGNiZDdlYzNk",
     "generation": 1,
     "tags": ["lambda", "python"],
-    "name": "trial-master-files-data-mesh",
-    "uid": "2152f463-549d-4d8d-a94d-ce2b7676c6e2"
+    "name": "trial-master-files-data-mesh"
   },
   "spec": {
     "lifecycle": "experimental",
