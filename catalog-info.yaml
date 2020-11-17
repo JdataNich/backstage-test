@@ -2,8 +2,8 @@
   "apiVersion": "backstage.io/v1alpha1",
   "kind": "Component",
   "metadata": {
-    "description": "The POC Data Mesh solution delivered as part of PI8 from the Data Platform",
-    "name": "trial-master-files-data-mesh"
+    "description": "The POC Data Mesh Solution",
+    "name": "trial-master-files"
   },
   "spec": {
     "lifecycle": "experimental",
